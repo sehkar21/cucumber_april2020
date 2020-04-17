@@ -1,0 +1,554 @@
+2020-03-28 22:40:43,803 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 22:42:38,282 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 22:42:43,059 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-28 22:42:43,278 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-28 22:42:43,504 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-28 22:45:29,085 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 22:45:36,099 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-28 22:45:36,266 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-28 22:45:36,366 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-28 22:52:45,714 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 22:52:50,675 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-28 22:52:50,836 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-28 22:52:51,004 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-28 22:58:43,025 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 22:58:47,687 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-28 22:58:47,856 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-28 22:58:47,960 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-28 22:58:52,301 [main] INFO OrangeHrm - *********verifying the Title***********
+2020-03-28 23:01:48,285 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 23:01:52,713 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-28 23:01:52,912 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-28 23:01:53,042 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-28 23:01:56,245 [main] INFO OrangeHrm - *********verifying the Title***********
+2020-03-28 23:02:42,936 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-28 23:02:46,800 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-28 23:02:46,996 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-28 23:02:47,095 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-28 23:02:49,407 [main] INFO OrangeHrm - *********verifying the Title***********
+2020-03-29 00:21:17,404 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:27:00,862 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:27:05,796 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:27:06,008 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:27:06,138 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:27:19,220 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:28:11,932 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:28:17,102 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:28:17,275 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:28:17,382 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:30:20,236 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:30:24,811 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:30:25,271 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:30:25,571 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:34:38,230 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:34:53,204 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:34:53,518 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:34:53,762 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:40:06,158 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:40:12,120 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:40:12,311 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:40:12,432 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:43:44,493 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:43:49,086 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:43:49,255 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:43:49,357 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:46:47,053 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:46:53,027 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:46:53,193 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:46:53,345 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 00:49:04,985 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 00:49:30,178 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 00:49:30,351 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 00:49:30,462 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 11:16:42,880 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 11:16:46,540 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 11:16:46,852 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 11:16:46,960 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:11:02,285 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:11:08,627 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:11:08,767 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:11:08,920 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:19:34,882 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:19:43,851 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:19:44,021 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:19:44,121 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:21:06,604 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:21:12,634 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:21:12,804 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:21:12,944 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:22:28,071 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:22:33,107 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:22:33,300 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:22:33,422 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:23:51,683 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:23:55,626 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:23:55,867 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:23:56,037 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:28:12,760 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:28:17,086 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:28:17,245 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:28:17,353 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:29:25,974 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:29:30,874 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:29:31,045 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:29:31,149 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:30:35,927 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:30:41,755 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:30:41,923 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:30:42,036 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:32:38,629 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:32:43,365 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:32:43,560 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:32:43,692 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 12:57:10,699 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 12:57:15,937 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 12:57:16,188 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 12:57:16,376 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 13:20:05,256 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 13:20:10,042 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 13:20:10,233 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 13:20:10,404 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 13:21:02,413 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 13:21:06,384 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 13:21:06,607 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 13:21:06,845 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 13:33:05,646 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 13:33:10,840 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 13:33:11,004 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 13:33:11,113 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 13:33:19,803 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 13:33:20,556 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 14:21:22,680 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:21:28,103 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:21:28,261 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:21:28,361 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 14:21:35,446 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 14:21:36,065 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 14:45:00,840 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:45:07,678 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:45:07,863 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:45:08,003 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 14:45:15,627 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 14:45:16,452 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 14:53:43,051 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:53:47,690 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:53:47,871 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:53:48,019 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 14:53:54,702 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 14:53:55,350 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 14:56:24,644 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:56:29,339 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:56:29,546 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:56:29,702 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 14:56:31,995 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 14:56:37,614 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 14:58:21,036 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:58:25,453 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:58:25,638 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:58:25,731 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 14:58:33,194 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-29 14:58:34,199 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-29 14:58:47,204 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:58:52,701 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:58:52,816 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:58:52,914 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 14:59:02,665 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 14:59:03,366 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 14:59:20,518 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 14:59:24,950 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 14:59:25,086 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 14:59:25,214 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:10:21,039 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:10:25,855 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:10:26,025 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:10:26,171 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:10:35,678 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-29 15:10:36,816 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-29 15:10:49,775 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:10:54,628 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:10:54,760 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:10:54,869 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:11:03,615 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 15:11:04,803 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 15:11:21,322 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:11:25,365 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:11:25,476 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:11:25,579 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:19:08,701 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:19:13,139 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:19:13,353 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:19:13,582 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:19:21,581 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-29 15:19:21,678 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-29 15:19:52,167 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:19:56,098 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:19:56,217 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:19:56,328 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:20:03,783 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 15:20:04,537 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 15:20:20,965 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:20:25,216 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:20:25,339 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:20:25,548 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:24:01,757 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:24:05,936 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:24:06,122 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:24:06,276 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:24:18,904 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-29 15:24:20,001 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-29 15:24:35,098 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:24:40,149 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:24:40,278 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:24:40,390 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:24:53,459 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 15:24:54,167 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 15:25:11,081 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:25:15,695 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:25:15,821 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:25:15,983 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:26:44,842 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:26:49,745 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:26:49,919 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:26:50,079 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:26:57,881 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-29 15:26:57,975 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-29 15:27:28,453 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:27:33,064 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:27:33,183 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:27:33,307 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 15:27:41,465 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 15:27:42,165 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 15:27:59,540 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 15:28:04,121 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 15:28:04,256 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 15:28:04,405 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:02:00,167 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:02:05,011 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:02:05,205 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:02:05,321 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:02:12,712 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-29 16:02:13,721 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-29 16:02:26,131 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:02:30,903 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:02:31,019 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:02:31,121 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:02:33,679 [main] INFO OrangeHrm - ************clicking Leave option****************
+2020-03-29 16:02:37,723 [main] INFO OrangeHrm - ************clicking Leave Record****************
+2020-03-29 16:02:54,155 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:02:58,770 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:02:58,890 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:02:59,036 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:15:15,371 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:15:19,922 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:15:20,138 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:15:20,266 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:24:19,904 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:24:25,495 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:24:25,675 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:24:25,781 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:37:32,702 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:37:38,819 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:37:38,998 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:37:39,107 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:47:43,898 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:47:48,095 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:47:48,344 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:47:48,620 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:49:52,546 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:49:56,376 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:49:56,570 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:49:56,737 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 16:58:20,616 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 16:58:26,541 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 16:58:26,739 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 16:58:26,852 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 17:01:30,141 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 17:01:35,661 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 17:01:35,842 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 17:01:35,949 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-29 17:05:07,482 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-29 17:05:12,262 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-29 17:05:12,477 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-29 17:05:12,604 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 12:18:17,259 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 12:18:22,318 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 12:18:22,905 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 12:18:23,009 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 12:21:15,202 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 12:21:29,767 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 12:21:29,948 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 12:21:30,102 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 12:28:57,103 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 12:29:01,367 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 12:29:01,569 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 12:29:01,746 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 12:48:48,694 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 12:48:53,943 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 12:48:54,165 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 12:48:54,265 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 12:49:02,102 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 12:57:14,553 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 12:57:19,586 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 12:57:19,837 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 12:57:19,972 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 12:57:33,668 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:01:02,843 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:01:08,247 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:01:08,435 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:01:08,544 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:01:19,268 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:03:28,820 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:03:34,530 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:03:34,759 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:03:34,906 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:03:45,104 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:04:41,980 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:04:48,111 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:04:48,308 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:04:48,479 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:05:03,589 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:09:18,993 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:09:26,885 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:09:27,132 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:09:27,328 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:09:39,669 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:11:02,640 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:11:07,986 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:11:08,153 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:11:08,262 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:11:17,865 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:14:35,372 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:14:40,269 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:14:40,463 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:14:40,626 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:14:51,512 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:17:35,617 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:17:41,834 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:17:42,009 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:17:42,121 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:17:51,770 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:20:56,854 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:21:01,836 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:21:02,072 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:21:02,249 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:21:12,601 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:21:22,567 [main] INFO OrangeHrm - **********clicking the upload button**********
+2020-03-30 13:31:02,211 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:31:07,248 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:31:07,445 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:31:07,587 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:31:14,941 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:31:24,702 [main] INFO OrangeHrm - **********clicking the upload button**********
+2020-03-30 13:33:13,839 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:33:19,090 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:33:19,297 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:33:19,429 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:33:33,884 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:33:44,062 [main] INFO OrangeHrm - **********clicking the upload button**********
+2020-03-30 13:35:26,367 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:35:31,025 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:35:31,223 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:35:31,346 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:35:42,523 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:35:55,750 [main] INFO OrangeHrm - **********clicking the upload button**********
+2020-03-30 13:36:55,700 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:37:00,461 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:37:00,683 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:37:00,819 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:37:09,065 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:38:36,159 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 13:38:40,228 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 13:38:40,409 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 13:38:40,577 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 13:38:47,749 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 13:38:58,029 [main] INFO OrangeHrm - **********clicking the upload button**********
+2020-03-30 13:38:58,065 [main] INFO OrangeHrm - **********clicked the upload button**********
+2020-03-30 14:41:28,821 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 14:41:32,334 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 14:41:32,535 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 14:41:32,667 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 14:41:39,952 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-30 14:41:51,011 [main] INFO OrangeHrm - **********clicking the upload button**********
+2020-03-30 14:41:51,136 [main] INFO OrangeHrm - **********clicked the upload button**********
+2020-03-30 15:13:41,170 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-30 15:13:45,589 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-30 15:13:46,304 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-30 15:13:46,676 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-30 15:13:54,329 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:35:19,186 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:35:23,602 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:35:23,819 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:35:24,050 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:35:31,744 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:35:32,982 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:35:45,660 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:35:49,901 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:35:50,034 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:35:50,181 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:36:00,757 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:36:02,106 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:36:14,135 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:36:20,545 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:36:20,662 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:36:20,764 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:36:32,460 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:36:33,830 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:36:45,509 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:36:50,325 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:36:50,499 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:36:50,701 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:37:00,794 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:37:02,010 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:37:14,073 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:37:18,415 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:37:18,561 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:37:18,713 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:37:29,067 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:37:30,454 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:37:42,698 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:37:49,877 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:37:49,985 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:37:50,144 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:38:02,804 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:38:04,773 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:40:30,890 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:40:35,349 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:40:35,532 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:40:35,699 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:40:44,705 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:40:46,896 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:54:27,267 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:54:31,859 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:54:32,077 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:54:32,288 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:54:42,749 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:54:42,847 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:55:25,674 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 18:55:30,507 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 18:55:30,676 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 18:55:30,780 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 18:55:41,994 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 18:55:42,095 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 18:56:17,815 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:07:07,691 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:07:12,774 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:07:12,975 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:07:13,129 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:07:22,972 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:07:24,016 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:09:09,697 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:09:15,288 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:09:15,462 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:09:15,579 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:09:26,648 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:09:29,295 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:10:35,015 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:10:39,188 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:10:39,380 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:10:39,543 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:10:51,679 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:10:51,774 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:12:00,327 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:12:04,691 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:12:04,870 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:12:05,077 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:12:18,735 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:12:19,982 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:16:58,988 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:17:04,091 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:17:04,284 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:17:04,414 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:17:16,982 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:17:18,274 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:17:28,482 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:17:32,637 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:30:50,749 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:30:56,042 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:30:56,212 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:30:56,391 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:31:03,440 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:31:03,537 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:31:13,402 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:31:17,340 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:31:17,447 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:31:17,597 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:31:24,588 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:31:24,695 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:40:30,736 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:40:35,247 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:40:35,426 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:40:35,543 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:40:42,330 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:40:42,422 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:40:52,737 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:40:57,325 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:40:57,432 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:40:57,554 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:41:05,903 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:41:07,312 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:49:49,001 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:49:53,697 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:49:54,257 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:49:54,507 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:50:02,076 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:50:03,293 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 19:50:13,179 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 19:50:17,616 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 19:50:17,802 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 19:50:17,935 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 19:50:26,078 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 19:50:27,334 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:20:04,430 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:20:08,309 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:20:08,520 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:20:08,647 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:20:16,898 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:20:17,925 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:21:51,818 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:21:56,563 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:21:56,746 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:21:56,863 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:22:06,364 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:22:07,509 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:23:20,159 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:23:24,686 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:23:24,921 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:23:25,103 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:23:33,407 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:23:34,532 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:26:06,893 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:26:14,988 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:26:15,183 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:26:15,310 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:26:42,853 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:26:46,997 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:27:02,551 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:27:11,647 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:27:11,764 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:27:11,869 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:27:34,959 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:27:39,565 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:27:53,915 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:28:01,585 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:28:01,694 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:28:01,848 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:28:24,323 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:28:25,557 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:28:40,822 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:28:47,195 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:28:47,368 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:28:47,620 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:28:59,990 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:29:01,354 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:29:16,379 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:29:22,228 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:29:22,344 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:29:22,460 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:29:37,793 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:29:38,821 [main] INFO OrangeHrm - ************clicking Add employee****************
+2020-03-31 21:29:55,716 [main] INFO OrangeHrm - *********Opening Chrome***********
+2020-03-31 21:30:02,830 [main] INFO OrangeHrm - *********Entering the URL***********
+2020-03-31 21:30:02,967 [main] INFO OrangeHrm - *********Entering the username***********
+2020-03-31 21:30:03,091 [main] INFO OrangeHrm - *********Entering the password***********
+2020-03-31 21:30:14,340 [main] INFO OrangeHrm - ************clicking PIM****************
+2020-03-31 21:30:15,685 [main] INFO OrangeHrm - ************clicking Add employee****************

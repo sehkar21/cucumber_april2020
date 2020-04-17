@@ -1,0 +1,654 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 17,
+        "name": "Adding employee using Excel",
+        "description": "",
+        "id": "adding-employee-using-excel;adding-employee-using-excel;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20469723300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enter the url of OrangeHrm",
+            "match": {
+              "location": "LoginSteps.the_user_enter_the_url_of_OrangeHrm()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 307237300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "LoginSteps.user_enters_the_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "admin123"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19301460400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks the Login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_the_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8235791100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user is on the HomePage and clicks the PIM option",
+            "match": {
+              "location": "AddEmployeeSteps.the_user_is_on_the_HomePage_and_clicks_the_PIM_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4142248200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks the Add Employee button",
+            "match": {
+              "location": "AddEmployeeSteps.user_clicks_the_Add_Employee_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5152261100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the details \"1\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "AddEmployeeExcelSteps.user_enters_the_details(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag6"
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "Adding employee using Excel",
+        "description": "",
+        "id": "adding-employee-using-excel;adding-employee-using-excel;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19486915300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enter the url of OrangeHrm",
+            "match": {
+              "location": "LoginSteps.the_user_enter_the_url_of_OrangeHrm()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 216317300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "LoginSteps.user_enters_the_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "admin123"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 14844754600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks the Login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_the_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8241339400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user is on the HomePage and clicks the PIM option",
+            "match": {
+              "location": "AddEmployeeSteps.the_user_is_on_the_HomePage_and_clicks_the_PIM_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4604622700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks the Add Employee button",
+            "match": {
+              "location": "AddEmployeeSteps.user_clicks_the_Add_Employee_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4541595700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the details \"2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "2",
+                  "offset": 25
+                }
+              ],
+              "location": "AddEmployeeExcelSteps.user_enters_the_details(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag6"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Adding employee using Excel",
+        "description": "",
+        "id": "adding-employee-using-excel;adding-employee-using-excel;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17468726600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enter the url of OrangeHrm",
+            "match": {
+              "location": "LoginSteps.the_user_enter_the_url_of_OrangeHrm()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 259043400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "LoginSteps.user_enters_the_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "admin123"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15725509400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks the Login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_the_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6744526400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user is on the HomePage and clicks the PIM option",
+            "match": {
+              "location": "AddEmployeeSteps.the_user_is_on_the_HomePage_and_clicks_the_PIM_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1232687400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks the Add Employee button",
+            "match": {
+              "location": "AddEmployeeSteps.user_clicks_the_Add_Employee_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4372900300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the details \"3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3",
+                  "offset": 25
+                }
+              ],
+              "location": "AddEmployeeExcelSteps.user_enters_the_details(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag6"
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Adding employee using Excel",
+        "description": "",
+        "id": "adding-employee-using-excel;adding-employee-using-excel;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 17260384400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enter the url of OrangeHrm",
+            "match": {
+              "location": "LoginSteps.the_user_enter_the_url_of_OrangeHrm()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 415559300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "LoginSteps.user_enters_the_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "admin123"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4767001400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks the Login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_the_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7597178700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user is on the HomePage and clicks the PIM option",
+            "match": {
+              "location": "AddEmployeeSteps.the_user_is_on_the_HomePage_and_clicks_the_PIM_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1361328700,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks the Add Employee button",
+            "match": {
+              "location": "AddEmployeeSteps.user_clicks_the_Add_Employee_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4376753000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the details \"4\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4",
+                  "offset": 25
+                }
+              ],
+              "location": "AddEmployeeExcelSteps.user_enters_the_details(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag6"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Adding employee using Excel",
+        "description": "",
+        "id": "adding-employee-using-excel;adding-employee-using-excel;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 16490085200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enter the url of OrangeHrm",
+            "match": {
+              "location": "LoginSteps.the_user_enter_the_url_of_OrangeHrm()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 226341600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "LoginSteps.user_enters_the_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "admin123"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7668233700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks the Login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_the_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 7661455500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user is on the HomePage and clicks the PIM option",
+            "match": {
+              "location": "AddEmployeeSteps.the_user_is_on_the_HomePage_and_clicks_the_PIM_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1026575000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks the Add Employee button",
+            "match": {
+              "location": "AddEmployeeSteps.user_clicks_the_Add_Employee_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4938986000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the details \"5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 25
+                }
+              ],
+              "location": "AddEmployeeExcelSteps.user_enters_the_details(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag6"
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Adding employee using Excel",
+        "description": "",
+        "id": "adding-employee-using-excel;adding-employee-using-excel;;7",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 19062580500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enter the url of OrangeHrm",
+            "match": {
+              "location": "LoginSteps.the_user_enter_the_url_of_OrangeHrm()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 252286600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user enters the username and password",
+            "match": {
+              "location": "LoginSteps.user_enters_the_username_and_password(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Admin",
+                  "admin123"
+                ],
+                "line": 9
+              }
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5159079100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "user clicks the Login button",
+            "match": {
+              "location": "LoginSteps.user_clicks_the_Login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6086029700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "the user is on the HomePage and clicks the PIM option",
+            "match": {
+              "location": "AddEmployeeSteps.the_user_is_on_the_HomePage_and_clicks_the_PIM_option()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1343573800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user clicks the Add Employee button",
+            "match": {
+              "location": "AddEmployeeSteps.user_clicks_the_Add_Employee_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4638668300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the details \"6\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "6",
+                  "offset": 25
+                }
+              ],
+              "location": "AddEmployeeExcelSteps.user_enters_the_details(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@tag6"
+          }
+        ]
+      }
+    ],
+    "name": "Adding employee using Excel",
+    "description": "",
+    "id": "adding-employee-using-excel",
+    "keyword": "Feature",
+    "uri": "C:/Users/sehkar/eclipse-workspace/New folder/Cucumber_Extent/src/test/java/Features/AddEmployeeExcel.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tag6"
+      }
+    ]
+  }
+]
